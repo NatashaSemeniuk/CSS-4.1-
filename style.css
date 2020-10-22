@@ -1,0 +1,28 @@
+p {
+    font-size: 18px;
+}
+
+span {
+    color: #0000ff;
+}
+
+.title {
+    text-align: center;
+    background-color: #a52a2a;
+    color: #ffffff;
+}
+
+.img {
+    text-align: center;
+}
+
+#fiveCars>img {
+    border-style: dashed;
+}
+
+#fotter {
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+}
